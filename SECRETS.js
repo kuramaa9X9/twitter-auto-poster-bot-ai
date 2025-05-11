@@ -1,11 +1,11 @@
 //? It is advisable to use environment variables instead of directly putting secrets in repository file but I have skipped this part as it would become complicated for many.
 //? Alternatively you can download the repository instead or forking and upload it from your account and keep it private, in that way, your secrets will not be exposed to the public.
 
-const APP_KEY = "YOUR_TWITTER_APP_KEY";
-const APP_SECRET = "YOUR_TWITTER_APP_SECRET";
-const ACCESS_TOKEN = "YOUR_TWITTER_ACCESS_TOKEN";
-const ACCESS_SECRET = "YOUR_TWITTER_ACCESS_SECRET";
-const GEMINI_API_KEY = "YOUR_GEMINI_API_KEY";
+const APP_KEY = "QX47AXzydFimDGoqZAS78ptnd";
+const APP_SECRET = "ZaZ5cN5q0CjLG5LFCR9hDDnNmYd4qXNFuSd75SmRwMRtKIY0fy";
+const ACCESS_TOKEN = "1424653092159594496-VAxlYU8vxTt2V6W1yUDei6HJ7m0CyX";
+const ACCESS_SECRET = "F3Eq4yqsMh1mOZggjeOhgi0zRMBLf79qPwb3jvbleNUNT";
+const GEMINI_API_KEY = "AIzaSyBC4sB6aemM4AdCfW8aTzo_58T4Nfa7y3c";
 
 const SECRETS = {
   APP_KEY,
